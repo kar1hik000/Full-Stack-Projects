@@ -1,1 +1,1 @@
-<a href="https://kar1hik000.github.io/Full-Stack-Projects/Tic%20Tac%20Toe/index.html">Click here for playing Rock Paper Scissor</a>>
+<a href="https://kar1hik000.github.io/Full-Stack-Projects/Tic%20Tac%20Toe/index.html">Click here for playing Tic Tac Toe</a>
